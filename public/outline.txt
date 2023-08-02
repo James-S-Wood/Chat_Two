@@ -1,0 +1,25 @@
+Chat_Two/
+|- index.html
+|- style.css
+|- app.js
+|- Photos/
+   |- some_image.jpeg
+   |- another_image.jpeg
+   |- etc...
+
+   Additional Notes:
+
+   Let's create a simple Node.js application that serves your static files
+   and provides a basic API endpoint.
+
+   Chat_Two/
+   |- server.js
+   |- package.json
+   |- public/
+      |- index.html
+      |- style.css
+      |- app.js
+      |- Photos/
+         |- some_image.jpeg
+         |- another_image.jpeg
+         |- etc...
